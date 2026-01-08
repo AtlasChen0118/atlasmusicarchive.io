@@ -1,3 +1,4 @@
 title: Atlas' Music Archive
-description: Powered by Jekyll and GitHub Pages
+permalink: pretty
+markdown: kramdown
 theme: minima
