@@ -1,4 +1,5 @@
 title: Atlas' Music Archive
+baseurl: /atlasmusicarchive.io
 permalink: pretty
 markdown: kramdown
 theme: minima
