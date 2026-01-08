@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Archive
-permalink: /archive/
+permalink: /atlasmusicarchive.io/archive/
 ---
 
 # Archive
