@@ -22,4 +22,5 @@ title: Home
 
 <h1>Welcome</h1>
 
-<a class="button" href="/archive/">Enter Archive</a>
+<a class="button" href="{{ '/archive/' | relative_url }}">Enter Archive</a>
+
