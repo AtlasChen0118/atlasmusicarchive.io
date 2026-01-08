@@ -5,4 +5,5 @@ title: Home
 
 <h1>Welcome</h1>
 
-<a href="/archive/">Enter Archive</a>
+<a href="/atlasmusicarchive.io/archive/">Enter Archive</a>
+
